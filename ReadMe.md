@@ -19,10 +19,10 @@
 
 ## Package which need to be installed
  
- npm install strict
- npm install monotone-convex-hull-2d
- npm install point-in-polygon
- npm install fs
+ - npm install strict
+ - npm install monotone-convex-hull-2d
+ - npm install point-in-polygon
+ - npm install fs
 
 
  
