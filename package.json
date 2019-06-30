@@ -1,0 +1,21 @@
+{
+  "name": "convexhull",
+  "version": "1.0.0",
+  "description": "A simple demo of convexHull",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "simple-convexHull"
+  },
+  "author": "Nisha",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "monotone-convex-hull-2d": "^1.0.1",
+    "point-in-polygon": "^1.0.1",
+    "strict": "0.0.0"
+  }
+}
